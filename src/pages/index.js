@@ -15,7 +15,8 @@ export default function Home() {
                     name="description"
                     content="Prevent costly panel failures with real-time temperature monitoring and alerts. Thermonitor WNY installs and monitors sensors, coordinating with HVAC/AC contractors."
                 />
-                <link rel="icon" href="/images/favicon.ico" />
+                {/* <link rel="icon" href="/images/favicon.ico" /> */}
+                <link rel="icon" href="/thermometer-sun.svg" type="svg" />
             </Head>
 
             <main className="font-sans space-y-4">
